@@ -33,7 +33,7 @@ export default function ResumeTabSwitcher() {
                                                   <h2 className='text-black font-medium text-3xl'>Lead Software Developer</h2>
                                              </div>
                                              <div>
-                                                  <p className='text-[var(--light-color)]'>Hello, I'm Denny, a seasoned product developer with a passion for crafting innovative solutions. I've honed my skills over years of hands-on experience in the industry, specializing in creating user-centric products that exceed expectations. Let's collaborate and bring your ideas to life!</p>
+                                                  <p className='text-[var(--light-color)]'>Hello, I'm Hardik, a seasoned product developer with a passion for crafting innovative solutions. I've honed my skills over years of hands-on experience in the industry, specializing in creating user-centric products that exceed expectations. Let's collaborate and bring your ideas to life!</p>
                                              </div>
                                         </div>
                                    </div>
