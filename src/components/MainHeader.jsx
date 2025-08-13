@@ -6,7 +6,7 @@ function MainHeader() {
      const [isNavOpen, setIsNavOpen] = useState(false);
 
      return (
-          <div className="bg-[url('./src/portfolioImages/bg1.png')] h-[1000px] bg-cover bg-no-repeat bg-center w-full md:h-screen">
+          <div className="bg-[url('./src/portfolioImages/BackgroundImage.png')] h-[1000px] bg-cover bg-no-repeat bg-center w-full md:h-screen">
                <div className="container mx-auto px-4">
                     {/* Navigation Bar */}
                     <div className="flex flex-col md:flex-row items-center justify-between py-5">
