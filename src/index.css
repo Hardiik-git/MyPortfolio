@@ -13,3 +13,6 @@ a {
   --text-color: #aaaaaa;
   --light-color: #f2e5d6;
 }
+html {
+  scroll-behavior: smooth;
+}

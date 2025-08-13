@@ -41,7 +41,7 @@ function MainHeader() {
                          </div>
                     </div>
                     <>
-                         < BannerSection />
+                         <BannerSection />
                     </>
                </div>
           </div>
